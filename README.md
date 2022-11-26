@@ -15,11 +15,13 @@ This program demonstrates how to implement a deep convolutional autoencoder for 
 
 ### DATASET:
 
+![n1](https://user-images.githubusercontent.com/95266350/204070569-0de3aa9e-866d-4e28-8e26-7eba76215d98.png)
 
 
 ### Convolution Autoencoder Network Model:
 ![n2](https://user-images.githubusercontent.com/95266350/203508928-6adfc450-8ba0-4086-9969-1f5f37e29134.png)
 
+![n3](https://user-images.githubusercontent.com/95266350/204070577-d7f74462-c586-403e-866c-ec592bf66cc1.png)
 
 
 
@@ -134,9 +136,6 @@ plt.show()
 ~~~
 
 ### OUTPUT:
-
-### ADDING NOISE TO THE MNIST DATASET:
-
 
 ### AUTOENCODER.SUMMARY():
 ![n5](https://user-images.githubusercontent.com/95266350/203509144-cb5af41c-3aa9-4f07-9961-473a6d478a3e.png)
